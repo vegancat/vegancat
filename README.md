@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/0xvegancat" target="blank"><img src="https://img.shields.io/twitter/follow/0xvegancat?logo=twitter&style=for-the-badge" alt="0xvegancat" /></a> </p>
 
-- 🔭 I’m currently working on [Land of Landless](landoflandless.xyz)
+- 🔭 I’m currently working on [Land of Landless](https://landoflandless.xyz)
 
-- 🤝 I’m looking for help with [Development, Marketing, Advisory](landoflandless.xyz)
+- 🤝 I’m looking for help with [Development, Marketing, Advisory](https://landoflandless.xyz)
 
 - 📫 How to reach me **mmostafavi247@gmail.com**
 
